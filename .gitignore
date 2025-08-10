@@ -1,0 +1,10 @@
+*.cache
+*.ide-shm
+*.ide-wal
+.vs
+Source/Advanced Nutrition & Health/.vs
+Source/Advanced Nutrition & Health/ModName.csproj.user
+Source/Advanced Nutrition & Health/obj
+Source/Advanced Nutrition & Health/Properties/AssemblyInfo.cs
+*/Assemblies/Advanced Nutrition & Health.pdb
+*/Assemblies/Advanced Nutrition & Health.dll

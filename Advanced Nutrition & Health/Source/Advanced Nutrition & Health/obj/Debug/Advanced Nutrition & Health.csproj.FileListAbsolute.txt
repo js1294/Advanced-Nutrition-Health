@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Advanced Nutrition & Health\Assemblies\Advanced Nutrition & Health.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Advanced Nutrition & Health\Assemblies\Advanced Nutrition & Health.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Advanced Nutrition & Health\Source\Advanced Nutrition & Health\obj\Debug\Advanced Nutrition & Health.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Advanced Nutrition & Health\Source\Advanced Nutrition & Health\obj\Debug\Advanced Nutrition & Health.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Advanced Nutrition & Health\Source\Advanced Nutrition & Health\obj\Debug\Advanced Nutrition & Health.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Advanced Nutrition & Health\Source\Advanced Nutrition & Health\obj\Debug\Advanced Nutrition & Health.pdb

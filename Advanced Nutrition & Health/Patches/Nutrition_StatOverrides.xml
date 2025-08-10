@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="RawPotatoes"]/statBases</xpath>
+    <value>
+      <Protein>0.06</Protein>
+      <Fat>0.620</Fat>
+      <Carbo>4.577</Carbo>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="RawFungus"]/statBases</xpath>
+    <value>
+      <Protein>0.93</Protein>
+      <Fat>0.12</Fat>
+      <Carbo>0.69</Carbo>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="RawRice"]/statBases</xpath>
+    <value>
+      <Protein>0.81</Protein>
+      <Fat>0.09</Fat>
+      <Carbo>8.43</Carbo>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="RawAgave"]/statBases</xpath>
+    <value>
+      <Protein>0.06</Protein>
+      <Fat>0.12</Fat>
+      <Carbo>20.43</Carbo>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="RawCorn"]/statBases</xpath>
+    <value>
+      <Protein>0.99</Protein>
+      <Fat>0.39</Fat>
+      <Carbo>1.89</Carbo>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="RawBerries"]/statBases</xpath>
+    <value>
+      <Protein>0.296</Protein>
+      <Fat>0.129</Fat>
+      <Carbo>1.986</Carbo>
+    </value>
+  </Operation>
+
+</Patch>

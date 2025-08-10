@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <StatDef>
+    <defName>Protein</defName>
+    <label>protein</label>
+    <description>The protein content in the food.</description>
+    <category>Basics</category>
+    <defaultBaseValue>0</defaultBaseValue>
+    <toStringStyle>FloatTwo</toStringStyle>
+    <showIfUndefined>true</showIfUndefined>
+    <parts>
+      <li Class="AdvancedNutritionHealth.StatPart_Protein"/>
+    </parts>
+  </StatDef>
+
+  <StatDef>
+    <defName>Fat</defName>
+    <label>fat</label>
+    <description>Fat content in the food.</description>
+    <category>Basics</category>
+    <defaultBaseValue>0</defaultBaseValue>
+    <toStringStyle>FloatTwo</toStringStyle>
+    <showIfUndefined>true</showIfUndefined>
+    <parts>
+      <li Class="AdvancedNutritionHealth.StatPart_Fat"/>
+    </parts>
+  </StatDef>
+
+  <StatDef>
+    <defName>Carbo</defName>
+    <label>carbohydrate</label>
+    <description>Carbohydrate content in the food.</description>
+    <category>Basics</category>
+    <defaultBaseValue>0</defaultBaseValue>
+    <toStringStyle>FloatTwo</toStringStyle>
+    <showIfUndefined>true</showIfUndefined>
+    <parts>
+      <li Class="AdvancedNutritionHealth.StatPart_Carbohydrate"/>
+    </parts>
+  </StatDef>
+</Defs>

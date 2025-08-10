@@ -1,0 +1,9 @@
+<ModMetaData>
+  <name>Advanced Nutrition &amp; Health</name>
+  <description>Version 1.0</description>
+  <author>JackAss</author>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <packageId>jackass.advancednutritionhealth</packageId>
+</ModMetaData>

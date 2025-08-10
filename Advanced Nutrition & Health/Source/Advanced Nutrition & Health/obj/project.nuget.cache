@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zvCRRfEh82Q=",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Advanced Nutrition & Health\\Source\\Advanced Nutrition & Health\\Advanced Nutrition & Health.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jacks\\.nuget\\packages\\krafs.rimworld.ref\\1.6.4535\\krafs.rimworld.ref.1.6.4535.nupkg.sha512"
+  ],
+  "logs": []
+}

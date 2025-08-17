@@ -9,7 +9,7 @@
     <toStringStyle>FloatTwo</toStringStyle>
     <showIfUndefined>true</showIfUndefined>
     <parts>
-      <li Class="AdvancedNutritionHealth.StatPart_Protein"/>
+      <li Class="SetNutrition.SetNutrition+StatPart_Protein"/>
     </parts>
   </StatDef>
 
@@ -22,7 +22,7 @@
     <toStringStyle>FloatTwo</toStringStyle>
     <showIfUndefined>true</showIfUndefined>
     <parts>
-      <li Class="AdvancedNutritionHealth.StatPart_Fat"/>
+      <li Class="SetNutrition.SetNutrition+StatPart_Fat"/>
     </parts>
   </StatDef>
 
@@ -35,7 +35,7 @@
     <toStringStyle>FloatTwo</toStringStyle>
     <showIfUndefined>true</showIfUndefined>
     <parts>
-      <li Class="AdvancedNutritionHealth.StatPart_Carbohydrate"/>
+      <li Class="SetNutrition.SetNutrition+StatPart_Carbohydrate"/>
     </parts>
   </StatDef>
 </Defs>
